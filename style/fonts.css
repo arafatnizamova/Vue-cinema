@@ -1,0 +1,74 @@
+/* 
+
+Comforta
+
+*/
+@font-face{
+    font-family: 'Comfortaa';
+    src: url(../fonts/Comfortaa/Comfortaa-Regular.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Comfortaa';
+    src: url(../fonts/Comfortaa/Comfortaa-Bold.ttf);
+    font-weight: 700;
+}
+@font-face{
+    font-family: 'Comfortaa';
+    src: url(../fonts/Comfortaa/Comfortaa-Light.ttf);
+    font-weight: 300;
+}
+
+/* 
+Montserrat
+*/
+
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserat/Montserrat/Montserrat-Regular.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserat/Montserrat/Montserrat-Bold.ttf);
+    font-weight: 700;
+}
+@font-face{
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserat/Montserrat/Montserrat-Light.ttf);
+    font-weight: 300;
+}
+
+/*
+
+Roboto
+
+ */
+
+@font-face{
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto/Roboto/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto/Roboto/Roboto-Bold.ttf);
+    font-weight: 700;
+}
+@font-face{
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto/Roboto/Roboto-Light.ttf);
+    font-weight: 300;
+}
+
+/* Font Awesome */
+@font-face{
+    font-family: 'awesome';
+    src: url(../fonts/awesome/fa-light-300.ttf);
+    font-weight: 300;
+}
+@font-face{
+    font-family: 'awesome';
+    src: url(../fonts/awesome/fa-duotone-900.ttf);
+    font-weight: 900;
+}
